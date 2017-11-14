@@ -13,6 +13,9 @@ and open the template in the editor.
         <form action="Enviar.php">
             <fieldset style="width: 505px" > 
                 <h3>Registro de Activos Fijos- Empresa XYZ</h3>
+                <h3>NOMBRE: BRYAN XAVIER INUCA CHICAIZA</h3>
+                <h3>FECHA: 13 DE NOVIEMBRE DEL 2017 </h3>
+                <h3>CARRERA: CISIC</h3>
                 <div> 
                     <br>
                     Nombre del Bien: &nbsp; <input type="text" name="nombre"><br>
